@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="star_image">Star image</string>
+    <string name="name">Maurice Gaynor</string>
+    <string name="nonsense_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Erat imperdiet sed euismod nisi porta lorem mollis aliquam ut. Nisi
+        porta lorem mollis aliquam ut porttitor leo a diam. Ultrices mi tempus imperdiet nulla malesuada pellentesque
+        elit eget gravida. Feugiat in ante metus dictum at tempor commodo. Purus semper eget duis at tellus at urna.
+        Nibh sit amet commodo nulla. Cursus euismod quis viverra nibh cras. Adipiscing elit ut aliquam purus sit amet.
+        Malesuada bibendum arcu vitae elementum.\n\n
+
+        Amet porttitor eget dolor morbi non arcu. Cras pulvinar mattis nunc sed blandit libero volutpat sed cras. Nunc
+        scelerisque viverra mauris in aliquam sem fringilla ut morbi. Sodales neque sodales ut etiam sit amet nisl purus
+        in. Diam donec adipiscing tristique risus. Integer quis auctor elit sed vulputate mi. Viverra vitae congue eu
+        consequat ac felis donec. Est ullamcorper eget nulla facilisi etiam. Lacus vestibulum sed arcu non odio euismod.
+        Nec ullamcorper sit amet risus nullam eget felis eget nunc. Posuere urna nec tincidunt praesent semper feugiat
+        nibh. Lectus quam id leo in vitae turpis. Arcu dictum varius duis at consectetur. Turpis egestas sed tempus urna
+        et. Dolor sed viverra ipsum nunc aliquet. Amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Neque
+        laoreet suspendisse interdum consectetur libero id faucibus nisl. Tincidunt tortor aliquam nulla facilisi. Duis
+        tristique sollicitudin nibh sit amet commodo nulla.\n
+
+        Metus vulputate eu scelerisque felis imperdiet proin fermentum. Nunc aliquet bibendum enim facilisis gravida
+        neque convallis a cras. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed id
+        semper risus in hendrerit gravida rutrum quisque non. Tempus quam pellentesque nec nam aliquam sem et. Lacus
+        luctus accumsan tortor posuere ac ut consequat. Dignissim sodales ut eu sem integer vitae justo. Fermentum
+        posuere urna nec tincidunt praesent semper. At urna condimentum mattis pellentesque id nibh tortor id. Ac orci
+        phasellus egestas tellus. Et ligula ullamcorper malesuada proin libero nunc. Ac orci phasellus egestas tellus
+        rutrum tellus pellentesque eu. Tellus in metus vulputate eu scelerisque felis imperdiet. Ut ornare lectus sit
+        amet est placerat in egestas. Et tortor consequat id porta nibh venenatis cras sed.\n\n
+
+        Auctor elit sed vulputate mi sit amet mauris. Magna ac placerat vestibulum lectus. Pharetra pharetra massa massa
+        ultricies mi quis hendrerit dolor magna. Non blandit massa enim nec dui nunc mattis enim ut. Euismod lacinia at
+        quis risus sed vulputate odio ut. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat
+        vivamus. Pulvinar neque laoreet suspendisse interdum. Mi in nulla posuere sollicitudin aliquam ultrices sagittis
+        orci. Id leo in vitae turpis massa sed elementum tempus egestas. Bibendum est ultricies integer quis auctor elit
+        sed vulputate mi. Viverra accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tempus egestas sed sed
+        risus pretium quam vulputate. Mi bibendum neque egestas congue. Netus et malesuada fames ac turpis egestas.
+        Porttitor rhoncus dolor purus non. Odio facilisis mauris sit amet massa. Sagittis vitae et leo duis ut diam
+        quam nulla porttitor. Et molestie ac feugiat sed lectus vestibulum mattis. In ante metus dictum at tempor
+        commodo ullamcorper.\n\n
+
+        Nibh mauris cursus mattis molestie a iaculis. Nisl nisi scelerisque eu ultrices vitae auctor eu augue ut.
+        Convallis posuere morbi leo urna molestie at. Nibh praesent tristique magna sit amet purus gravida. Sapien
+        pellentesque habitant morbi tristique. Gravida neque convallis a cras. Magna sit amet purus gravida quis blandit
+        turpis cursus. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Ultrices eros in cursus turpis
+        massa tincidunt dui ut ornare. Purus in mollis nunc sed id semper. Vel pretium lectus quam id leo in vitae. Eget
+        egestas purus viverra accumsan in nisl nisi. Lectus nulla at volutpat diam. Faucibus et molestie ac feugiat sed
+        lectus vestibulum mattis ullamcorper. Nisl purus in mollis nunc sed id.
+    </string>
+    <string name="done">Done</string>
+    <string name="what_is_nickname">What is your nickname?</string>
+</resources>
